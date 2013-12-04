@@ -4,7 +4,7 @@ title: "background read attempted"
 tagline:
 ---
 
-![](/assets/maclike.jpeg)
+![](/assets/computer-conductor.png)
 
 <ul class="posts">
   {% for post in site.posts %}
